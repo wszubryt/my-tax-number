@@ -1,0 +1,39 @@
+.app {
+  text-align: center;
+}
+
+.app-header {
+  background-color: #01579b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 4vmin);
+  color: white;
+}
+
+.tax-number-letter-0,
+.tax-number-letter-1 {
+  color: #fafafa;
+}
+
+.tax-number-letter-2,
+.tax-number-letter-3 {
+  color: #f3e5f5;
+}
+
+.tax-number-letter-4,
+.tax-number-letter-5 {
+  color: #f1f8e9;
+}
+
+.tax-number-letter-6,
+.tax-number-letter-7 {
+  color: #fbe9e7;
+}
+
+.tax-number-letter-8,
+.tax-number-letter-9 {
+  color: #fff8e1;
+}
