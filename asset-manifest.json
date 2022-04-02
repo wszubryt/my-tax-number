@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/my-tax-number/static/css/main.550d1939.css",
-    "main.js": "/my-tax-number/static/js/main.73622802.js",
-    "static/js/377.67e6157f.chunk.js": "/my-tax-number/static/js/377.67e6157f.chunk.js",
+    "main.js": "/my-tax-number/static/js/main.8a0ff2ef.js",
+    "static/js/787.4cb470c9.chunk.js": "/my-tax-number/static/js/787.4cb470c9.chunk.js",
     "service-worker.js": "/my-tax-number/service-worker.js",
     "index.html": "/my-tax-number/index.html",
     "main.550d1939.css.map": "/my-tax-number/static/css/main.550d1939.css.map",
-    "main.73622802.js.map": "/my-tax-number/static/js/main.73622802.js.map",
-    "377.67e6157f.chunk.js.map": "/my-tax-number/static/js/377.67e6157f.chunk.js.map"
+    "main.8a0ff2ef.js.map": "/my-tax-number/static/js/main.8a0ff2ef.js.map",
+    "787.4cb470c9.chunk.js.map": "/my-tax-number/static/js/787.4cb470c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.550d1939.css",
-    "static/js/main.73622802.js"
+    "static/js/main.8a0ff2ef.js"
   ]
 }
